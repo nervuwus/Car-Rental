@@ -15,7 +15,7 @@
 
 This is a full system of car rental placed under MIT License so you can take wathever you want of the code but you have to quote me in the Acknowledgment section this projet contains Mobile apk, Web pages and Software version and each part are linked with an DataBase
 
-# Languages :
+# Languages
 
 Here you can see which language, tools and framework i'm gonna user
 
@@ -23,14 +23,14 @@ Here you can see which language, tools and framework i'm gonna user
 **Web page** : Typescript, CSS, Tailwind, React, SQL\
 **Mobile apps** : Java, SQL
 
-# Requirements : 
+# Requirements 
 
 - [ ] Database
 - [ ] Software 
 - [ ] Web page
 - [ ] Mobile application
 
-## Database : 
+## Database
 
 **Type** : Relational \
 **Name** : Cockroach \
@@ -49,7 +49,7 @@ Vehicule rent | ∅ | ∅
 Payment to come | ∅ | ∅
 Login information | ∅ | ∅
 
-## Software :
+## Software
 
 ### Support : 
 - [ ] Linux 
@@ -137,7 +137,7 @@ Note | ∅
 Actual rent | ∅
 Time left with the car | ∅
 
-## Web-page :
+## Web-page
 
 It should contains the same things as the software part and
 
@@ -159,7 +159,7 @@ Button to change car availability | Send system Message button | Quick profile a
 Quick car adder | ∅ | Markdown support | Add task | Pin review
 Manage car privacy button | ∅ | File support | Check history | ∅
 
-## Apk : 
+## Apk
 
 **Support**
 
@@ -168,6 +168,6 @@ Manage car privacy button | ∅ | File support | Check history | ∅
 
 It should contains the same things as the software part
 
-# How-to-Deploy : 
+# How-to-Deploy 
 
 ***__COMING LATER__***
